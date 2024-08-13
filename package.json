@@ -1,0 +1,14 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "simple react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "author": "Maowa Risa",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
