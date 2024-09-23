@@ -1,3 +1,27 @@
-#heading{
-    color: tomato;
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid gray;
+}
+
+.logo{
+    width: 70px;
+}
+.nav-items{
+    padding-right: 20px;
+}
+.nav-items > ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+.nav-items > ul >li{
+}
+.res-card img{
+    width: 200px;
+}
+.res-card{
+    width: 200px;
+    height: 300px;
 }
